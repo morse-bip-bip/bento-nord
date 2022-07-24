@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 :root {
     /* Fonts  */
-    --fsg: 150px;
-    --fsm: 85px;
-    --fss: 30px;
-    --fses: 18px;
+    --fsg: 135px;
+    --fsm: 75px;
+    --fss: 25px;
+    --fses: 16px;
 
     /* Light theme  */
     --accent: #2D2D2D;
-    --bg: #000;
+    --bg: #353c4a;
     --sbg: #3b4252;
     --fg: #e5e9f0;
 
@@ -36,9 +36,9 @@
 /* Dark theme  */
 .darktheme {
     --accent: #5e81ac;
-    --bg: #353c4a;
-    --sbg: #2e3440;
-    --fg: #d8dee9;
+    --bg: #1e222b;
+    --sbg: #292e38;
+    --fg: #c5cee0;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)); }
 
 * {
