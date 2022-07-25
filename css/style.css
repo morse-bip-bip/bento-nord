@@ -7,7 +7,7 @@
     --fses: 16px;
 
     /* Light theme  */
-    --accent: #2D2D2D;
+    --accent: #5e81ac;
     --bg: #353c4a;
     --sbg: #3b4252;
     --fg: #e5e9f0;
@@ -35,7 +35,7 @@
 
 /* Dark theme  */
 .darktheme {
-    --accent: #5e81ac;
+    --accent: #3e536e;
     --bg: #1e222b;
     --sbg: #292e38;
     --fg: #c5cee0;
