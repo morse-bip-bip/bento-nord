@@ -25,7 +25,7 @@
         rgba(255, 255, 255, 0.7)
     );
 }
-@media only screen and (max-width: 68.75em) {
+@media only screen and (max-width: 68.75em) { 
     :root {
         --fsg: 100px;
         --fsm: 65px;
